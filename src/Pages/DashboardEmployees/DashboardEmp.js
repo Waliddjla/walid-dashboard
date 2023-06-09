@@ -4,7 +4,7 @@ import './DashboardEmployees.css'
 export default function DashboardEmp() {
   return (
     <div>
-
+    
     </div>
   )
 }
